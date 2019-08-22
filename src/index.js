@@ -3,7 +3,6 @@ import debounce from './utils/debounce'
 import loadJS from './utils/loadJS'
 
 window.touchParams = {
-    triggered: false,
     touchPoints: 1,
     startDistance: 0,
     endDistance: 0
@@ -57,8 +56,3 @@ function handleTouchEnd() {
         }
     }
 }
-
-
-
-
-
