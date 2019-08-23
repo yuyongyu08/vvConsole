@@ -11,5 +11,5 @@
 
 #### 二、DEMO:
 
-![vvConsole demo](./src/img/qrCode.png)
+![vvConsole demo](https://yuyongyu08.github.io/vvconsole/qrCode.png)
 
