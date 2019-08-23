@@ -45,7 +45,7 @@ function handleTouchEnd() {
             }
         }else {
             loadJS({
-                url: 'https://yuyongyu08.github.io/vvconsole/vvConsole.min.js',
+                url: 'https://yuyongyu08.github.io/vvconsole/vconsole.min.3.3.2.js',
                 async: true,
                 defer: true,
                 callback: function () {
